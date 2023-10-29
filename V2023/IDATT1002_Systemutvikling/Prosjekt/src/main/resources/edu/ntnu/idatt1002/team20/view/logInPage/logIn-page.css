@@ -1,0 +1,25 @@
+@import "../mainPage/main-page.css";
+
+
+.root {
+  -fx-background-color: #f2f2f2;
+}
+
+#messageField {
+  -fx-background-color: transparent;
+}
+
+#textPrompt {
+  -fx-background-color: transparent;
+}
+
+.button {
+  -fx-background-color: #00009D;
+  -fx-text-fill: white;
+  -fx-cursor: hand;
+}
+
+.button:hover, .button:focused {
+  -fx-background-color: #296AA5;
+}
+

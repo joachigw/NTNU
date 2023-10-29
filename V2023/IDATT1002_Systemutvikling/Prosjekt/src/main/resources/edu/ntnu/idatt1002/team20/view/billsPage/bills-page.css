@@ -1,0 +1,80 @@
+@import "../mainPage/main-page.css";
+
+#billsTitle {
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+}
+
+.billsOverviewLabelTitles {
+    -fx-font-size: 12;
+}
+
+#billsTableView .column-header {
+    -fx-background-color: #00009D;
+}
+
+#billsTableView .column-header .label {
+    -fx-text-fill: white;
+}
+
+#billsTableView .table-column {
+    -fx-alignment: center;
+}
+
+#registerNewBillBtn {
+    -fx-background-color: #004f27;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-min-width: 120px;
+    -fx-min-height: 40px;
+    -fx-background-insets: 2px;
+}
+
+#registerNewBillBtn:hover {
+    -fx-background-color: #003A1D;
+}
+
+#registerNewBillBtn:focused {
+    -fx-background-color: #003A1D;
+    -fx-border-style: solid;
+    -fx-border-color: #0078d7;
+}
+
+#removeButton {
+    -fx-background-color: #8B0000;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-padding: 8px;
+    -fx-background-insets: 2px;
+    -fx-font-size: 13;
+}
+
+#removeButton:hover {
+    -fx-background-color: #6B0000;
+}
+
+#removeButton:focused {
+    -fx-background-color: #6B0000;
+    -fx-border-style: solid;
+    -fx-border-color: #0078d7;
+}
+
+#markAsPaidButton {
+    -fx-background-color: #004f27;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-padding: 8px;
+    -fx-background-insets: 2px;
+    -fx-font-size: 13;
+}
+
+#markAsPaidButton:hover {
+    -fx-background-color: #003A1D;
+}
+
+#markAsPaidButton:focused {
+    -fx-background-color: #003A1D;
+    -fx-border-style: solid;
+    -fx-border-color: #0078d7;
+}
+

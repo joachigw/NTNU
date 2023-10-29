@@ -1,0 +1,3 @@
+/Users/joachimgw/Library/CloudStorage/OneDrive-NTNU/Documents/!NTNU/Dataingeniør/H2023/AlgoritmerOgDatastrukturer/Arbeidskrav/Oving4/Oppgave2/cmake-build-debug/CMakeFiles/Oppgave2.dir
+/Users/joachimgw/Library/CloudStorage/OneDrive-NTNU/Documents/!NTNU/Dataingeniør/H2023/AlgoritmerOgDatastrukturer/Arbeidskrav/Oving4/Oppgave2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joachimgw/Library/CloudStorage/OneDrive-NTNU/Documents/!NTNU/Dataingeniør/H2023/AlgoritmerOgDatastrukturer/Arbeidskrav/Oving4/Oppgave2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

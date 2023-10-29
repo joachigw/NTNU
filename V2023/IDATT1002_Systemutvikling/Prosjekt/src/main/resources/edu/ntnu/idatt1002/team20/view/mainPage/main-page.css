@@ -1,0 +1,80 @@
+ #sidebar {
+    -fx-background-color:  #00009D;
+     -fx-alignment: center;
+}
+
+.menuBtn {
+    -fx-min-width: 150px;
+    -fx-alignment: center;
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+}
+
+.menuBtn:hover, .menuBtn:focused {
+    -fx-background-color: #296AA5;
+ }
+
+#welcomeUserMessage {
+    -fx-font-size: 18;
+}
+
+#balanceAmount {
+    -fx-font-size: 25;
+}
+
+#upcomingBillsTableView .table-column {
+    -fx-alignment: center;
+}
+
+ #upcomingBillsTableView .column-header {
+     -fx-background-color: #00009D;
+ }
+
+ #upcomingBillsTableView .column-header .label {
+     -fx-text-fill: white;
+ }
+
+#spentLabel {
+    -fx-font-style: italic;
+}
+
+#upcomingBillsLabel {
+    -fx-font-style: italic;
+}
+
+#restLabel {
+    -fx-font-weight: bolder;
+}
+
+#upcomingBillsTitle {
+    -fx-padding: 10 0 0 0;
+    -fx-font-size: 20;
+}
+
+ /* The following code applies to the commonality within add-pages' styling */
+
+ #cancelBtn {
+     -fx-text-fill: #357EC7;
+     -fx-background-color: white;
+     -fx-border-color: #357EC7;
+ }
+
+ #submitBtn {
+     -fx-background-color: #357EC7;
+     -fx-text-fill: white;
+ }
+
+ #cancelBtn:hover, #submitBtn:hover {
+     -fx-background-color: #296AA5;
+     -fx-text-fill: white;
+ }
+
+ #cancelBtn:focused, #submitBtn:focused {
+     -fx-background-color: #296AA5;
+     -fx-border-style: solid;
+     -fx-border-color: #0078d7;
+     -fx-text-fill: white;
+ }

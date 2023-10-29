@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" spacing="20.0" style="-fx-background-radius: 20px;" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.ntnu.idatt1002.team20.controllers.AddDebtController">
+   <children>
+      <Label id="registerFormTitle" focusTraversable="false" style="-fx-font-weight: bold; -fx-font-size: 30;" text="Add a new debt">
+         <VBox.margin>
+            <Insets bottom="30.0" />
+         </VBox.margin></Label>
+      <GridPane id="gridForm">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="typeField" maxWidth="-Infinity" prefWidth="130.0" promptText="Name of debt" GridPane.columnIndex="1">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></TextField>
+            <TextField fx:id="totalField" maxWidth="-Infinity" prefWidth="130.0" promptText=" Amount of debt" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></TextField>
+            <TextField fx:id="paidField" maxWidth="-Infinity" prefWidth="130.0" promptText="(Optional)" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></TextField>
+            <TextField fx:id="interestField" maxWidth="-Infinity" prefWidth="130.0" promptText="Effective interest rate" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></TextField>
+            <Label id="loanType" text="Type:" GridPane.halignment="RIGHT">
+               <GridPane.margin>
+                  <Insets right="30.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="13.0" />
+               </font></Label>
+            <Label id="loanTotalAmount" text="Total amount:" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets right="30.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="13.0" />
+               </font></Label>
+            <Label id="loanInterestRate" text="Amount paid:" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
+               <GridPane.margin>
+                  <Insets right="30.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="13.0" />
+               </font></Label>
+            <Label id="loanAmountPaid" text="Interest rate:" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
+               <GridPane.margin>
+                  <Insets right="30.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="13.0" />
+               </font></Label>
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </GridPane>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="20.0">
+         <children>
+            <Button id="cancelBtn" mnemonicParsing="false" onAction="#goBackButton" prefHeight="40.0" prefWidth="100.0" text="Cancel">
+               <font>
+                  <Font size="13.0" />
+               </font></Button>
+            <Button id="submitBtn" fx:id="submitBtn" mnemonicParsing="false" onAction="#submit" prefHeight="40.0" prefWidth="100.0" text="Add">
+               <font>
+                  <Font size="13.0" />
+               </font></Button>
+         </children>
+      </HBox>
+   </children>
+</VBox>

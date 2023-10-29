@@ -1,0 +1,24 @@
+Car insurance
+1
+2023-06-05
+1500.0
+true
+
+Motorcycle insurance
+2
+2023-06-09
+800.0
+true
+
+Airpods Pro, Klarna
+3
+2023-06-10
+1950.0
+true
+
+klarna fotball
+4
+2023-06-10
+1500.0
+true
+

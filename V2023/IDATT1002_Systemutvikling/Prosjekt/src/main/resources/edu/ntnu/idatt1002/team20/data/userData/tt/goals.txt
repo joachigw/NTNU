@@ -1,0 +1,12 @@
+Food March
+4500.0
+1500.0
+
+Italy vacation
+15000.0
+0.0
+
+transport
+1000.0
+100.0
+

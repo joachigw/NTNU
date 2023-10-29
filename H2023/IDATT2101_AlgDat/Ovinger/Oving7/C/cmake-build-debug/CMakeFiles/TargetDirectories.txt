@@ -1,0 +1,3 @@
+/home/joachimgw/OneDrive/Documents/!NTNU/Dataingeniør/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug/CMakeFiles/Oppgave1.dir
+/home/joachimgw/OneDrive/Documents/!NTNU/Dataingeniør/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joachimgw/OneDrive/Documents/!NTNU/Dataingeniør/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

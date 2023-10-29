@@ -1,0 +1,10 @@
+module:edu.ntnu.idatt1002.team20
+edu.ntnu.idatt1002.team20
+edu.ntnu.idatt1002.team20.controllers
+edu.ntnu.idatt1002.team20.models.bill
+edu.ntnu.idatt1002.team20.models.debt
+edu.ntnu.idatt1002.team20.models.expense
+edu.ntnu.idatt1002.team20.models.goal
+edu.ntnu.idatt1002.team20.models.income
+edu.ntnu.idatt1002.team20.models.user
+edu.ntnu.idatt1002.team20.utils

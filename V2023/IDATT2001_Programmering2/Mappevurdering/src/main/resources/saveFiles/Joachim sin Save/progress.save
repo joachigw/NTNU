@@ -1,0 +1,7 @@
+::The Skeleton->[Continue in to the forrest] (The Skeleton) {[]}
+::The Entrance Spider->[Enter cave] (The Entrance Spider) {[]}
+::Opening Passage->[Opening Link] (Opening Passage) {[]}
+::The Forrest->[Start walking] (The Forrest) {[]}
+::The cave entrance->[Go left to the cave] (The cave entrance) {[]}
+::Defeated Skeleton->[Attack] (Defeated Skeleton) {[]}
+::View of the river->[Go right further into the forrest] (View of the river) {[]}

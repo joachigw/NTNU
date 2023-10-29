@@ -1,0 +1,9 @@
+tt
+568d7ce9e2aa5b7748abc2d9534602ac486ede1331da364f429bfbe7dd3eef2614e9d5cf6bdd54b29e269b41bd4e7f5330dcbc61d7c3c655ab866fd2ffa115c2
+src/main/resources/edu/ntnu/idatt1002/team20/data/userData/tt/expenses.txt
+src/main/resources/edu/ntnu/idatt1002/team20/data/userData/tt/incomes.txt
+src/main/resources/edu/ntnu/idatt1002/team20/data/userData/tt/debts.txt
+src/main/resources/edu/ntnu/idatt1002/team20/data/userData/tt/goals.txt
+src/main/resources/edu/ntnu/idatt1002/team20/data/userData/tt/bills.txt
+src/main/resources/edu/ntnu/idatt1002/team20/data/userData/tt/upcomingBills.txt
+

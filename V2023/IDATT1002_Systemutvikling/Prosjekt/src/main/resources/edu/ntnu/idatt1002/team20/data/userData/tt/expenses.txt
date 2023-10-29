@@ -1,0 +1,48 @@
+2023-05-03T11:34:30.914683400
+Coop extra
+3000.0
+null
+Goal{goalType='Food May', goalAmount=4000.0, amountSpent=3000.0}
+
+2023-05-03T11:34:43.037017400
+Kiwi
+1500.0
+null
+Goal{goalType='Food March', goalAmount=4500.0, amountSpent=1500.0}
+
+2023-05-03T11:35:16.853649300
+Car downpayment
+40000.0
+Debt{debtType='Car', totalAmount=300000.0, amountPaid=80000.0, interestRate=6.0}
+null
+
+2023-05-03T11:36:41.194198400
+Motorcycle insurance
+800.0
+null
+null
+
+2023-05-05T08:56:50.505996900
+Car insurance
+1500.0
+null
+null
+
+2023-05-05T09:37:47.731933500
+Airpods Pro, Klarna
+1950.0
+null
+null
+
+2023-05-05T09:38:53.569755500
+buss
+100.0
+null
+Goal{goalType='transport', goalAmount=1000.0, amountSpent=100.0}
+
+2023-05-05T09:47:33.329884600
+klarna fotball
+1500.0
+null
+null
+

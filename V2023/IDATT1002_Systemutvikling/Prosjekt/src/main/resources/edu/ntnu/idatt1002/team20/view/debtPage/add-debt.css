@@ -1,0 +1,18 @@
+@import "../mainPage/main-page.css";
+
+#registerFormTitle {
+    -fx-font-size: 25;
+}
+
+.button {
+    -fx-background-color: #357EC7;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+    -fx-cursor: hand;
+    -fx-min-width: 100px;
+}
+
+.button:hover, .button:focused {
+    -fx-background-color: #296AA5;
+}
+

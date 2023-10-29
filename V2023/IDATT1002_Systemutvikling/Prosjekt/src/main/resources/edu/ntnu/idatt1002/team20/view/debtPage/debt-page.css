@@ -1,0 +1,66 @@
+@import "../mainPage/main-page.css";
+
+#debtTitle {
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+}
+
+#addDebtButton {
+    -fx-background-color: #004f27;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+}
+
+#addDebtButton:hover, #addDebtButton:focused {
+    -fx-background-color: #003A1D;
+}
+
+#debtLoansScrollPane {
+    -fx-background-color: transparent;
+    -fx-fit-to-width: true;
+}
+
+#debtLoansScrollPane .scroll-bar:vertical {
+    -fx-background-color: transparent;
+}
+
+#debtLoansScrollPane .scroll-bar:vertical .thumb {
+    -fx-background-color: #AAA;
+}
+
+#debtLoansScrollPane .scroll-bar:vertical .thumb:hover {
+    -fx-background-color: #888;
+}
+
+.progress-bar {
+    -fx-padding: 0 0 0 20;
+    -fx-min-height: 15;
+    -fx-pref-height: 15;
+}
+
+#editDebtText {
+    -fx-text-fill: blue;
+}
+
+#debtTableView .column-header {
+    -fx-background-color: #00009D;
+}
+
+#debtTableView .column-header .label {
+    -fx-text-fill: white;
+}
+
+#debtTableView .table-column {
+    -fx-alignment: center;
+}
+
+#removeButton {
+    -fx-background-color: #8B0000;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-font-size: 13;
+}
+
+#removeButton:hover, #removeButton:focused {
+    -fx-background-color: #6B0000;
+}

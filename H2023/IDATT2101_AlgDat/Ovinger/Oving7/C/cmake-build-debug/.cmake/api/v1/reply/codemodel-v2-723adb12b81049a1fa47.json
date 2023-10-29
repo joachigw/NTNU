@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Oppgave1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Oppgave1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Oppgave1-Debug-fef6b89649abd7c39fa1.json",
+					"name" : "Oppgave1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/joachimgw/OneDrive/Documents/!NTNU/Dataingeni\u00f8r/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug",
+		"source" : "/home/joachimgw/OneDrive/Documents/!NTNU/Dataingeni\u00f8r/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

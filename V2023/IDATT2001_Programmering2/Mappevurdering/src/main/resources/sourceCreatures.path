@@ -1,0 +1,12 @@
+::The Skeleton
+Health: 10
+Damage: 3
+Drop: 5
+[Attack](Defeated Skeleton){action}
+
+::blob
+Health: 15
+Damage: 4
+[Attack](Defeated Blob){action}
+
+//drop goes from 0 to 11

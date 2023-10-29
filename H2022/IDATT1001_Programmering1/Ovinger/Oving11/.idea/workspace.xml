@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99cc57ec-9c1d-4ce5-91d6-e00c09765e28" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_4_F/Valuta5/ValutaPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_4_F/Valuta5/ValutaPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_6_F/Tekstanalyse/Tekstanalyse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_6_F/Tekstanalyse/Tekstanalyse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_7/NyString/NyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_7_F/NyString/NyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_7/NyString/NyStringKlient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_7_F/NyString/NyStringKlient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_7/TekstBehandling/TekstBehandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_7_F/TekstBehandling/TekstBehandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_7/TekstBehandling/TekstBehandlingKlient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_7_F/TekstBehandling/TekstBehandlingKlient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_8/ArbTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_8_F/ArbTaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_8/BedriftKlient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_8_F/BedriftKlient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oving_8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Oving_8_F/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ovinger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ovinger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Ovinger/flowchart.ccd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Ovinger/flowchart.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Ovinger/flowchart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Ovinger/flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HX1Ta8nLnT9n2WDyNXBcdbweuq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/joach/OneDrive - NTNU/Documents/!Programmering/JAVA/Ovinger"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99cc57ec-9c1d-4ce5-91d6-e00c09765e28" name="Changes" comment="" />
+      <created>1668416622809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668416622809</updated>
+      <workItem from="1668416624082" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

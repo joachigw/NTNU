@@ -1,0 +1,137 @@
+//THIS FILE CAN SHOW PICTURES
+
+::Opening Passage(creature)
+The sun rises on a new adventure. The world is vast and the dangers are plenty.
+You have your eyes set on the valley that is said to contain the secrets to power and fortune.
+You take a small breath before you glance forward and start walking.
+[Start walking](The Forrest)
+
+::The Forrest
+As you enter the forrest you are greeted with countless trees, small creatures and sun rays making its way through the trees.
+Thank god for the main trail that has been used by countless adventurers before you.
+If not for the fact that adventurers have gone missing in the woods it would have been a pleasant sight.
+[Continue in to the forrest](The Skeleton)
+
+::The Skeleton
+You encounter a lowly skeleton that has wandered astray.
+It looks weak so taking it down should be plausible.
+[Attack](Defeated Skeleton){action}
+[Run](You died){Death}
+
+::You died
+While turning tail and running away the monster gets the upper hand and stabs you in the back.
+This adventure does not take lightly to cowards.
+[End Story](){}
+
+::Defeated Skeleton
+After the encounter with the skeleton you are filled with hope.
+The path divides into two paths.
+One goes into a cave. The other continues into the forrest.
+It looks like you have to choose...
+[Go left to the cave](The cave entrance){}
+[Go right further into the forrest](View of the river){}
+
+::The cave entrance
+The cave is wet and dark. Spiderwebs cover the entrance.
+Shining a small torch you can see that the cave stretches farther than any cave you have seen.
+Got to be careful not to get lost in there.
+[Enter cave](The Entrance Spider){}
+[Turn back](Previous Passage){}
+
+::View of the river
+The forrest starts to lighten as you can see a river in the distance.
+By the river you can also see a hut with a person sitting by it.
+There is also a sign showing "gear" on it. I might be able to get som new gear.
+[Go towards the river and stranger](The Riverside){}
+[Turn back](Previous Passage){}
+
+::The Riverside
+You find yourself at a riverside that stretches further into the valley.
+Just by the riverbank you can see a strange person by a campfire and tent.
+He does not give of any sense of danger.
+[Approach Stranger](Riverside Merchant Shop){}
+[Continue down the river](The second Encounter){}
+
+::Riverside Merchant Shop
+The spider was a small hustle, but not enough to stop your journey.
+You manage to find a way further into the cave and out of the spiders lair.
+You find a room lit up by the caves crystals.
+You startle as you see a huge beast in the room with a huge glowing yellow eye and four legs.
+You prepare to defend yourself, but as you get ready you spot a man under the beast.
+He does not look like a beast from the cave.
+Should you attack? Or is there more to this situation?
+[Attack](Cave Merchant Encounter){}
+[Approach?](Cave Merchant Shop){}
+
+::The Entrance Spider(creature)
+After stepping in to the cave you find yourself in a small room covered in spiderwebs.
+In the middle of the room you spot an abnormal sized spider.
+There is no use in running as the spider has already spotted you.
+Looks like a fight is unpreventable.
+[Attack](Cave Encounter Mysterious){}
+[Run](You died){Death}
+
+::Cave Encounter Mysterious(creature)
+After defeating the spider you got more cautious of your surroundings. Anything can be a danger in here.
+After arriving in a cave opening you arrive at an open space.
+But before you get the time to relax you see a huge creature with a glowing orange eye and standing on four legs.
+Before you brace for an a attack you spot a person beneath the creature. He is carrying a lot of gear.
+What should you do? And what can you expect after meeting such a ferocious creature as the spider?
+[Attack the creature](Cave Merchant Encounter){}
+[Approach?](Cave Merchant Shop){}
+
+
+
+::Cave Merchant Shop
+As you walk up to the man you notice that he is a feeble old man.
+He notices you and waves you over.
+'Hey Friend! Have not seen many people for a while. Thank heavens you did not-
+immediately attack me or bessy, my package mule. She may look scary but she is harmless and can carry alot of the caves loot.
+Speaking of loot. Want to take a look? It might help you on your journey.'
+[Shop](Cave Merchant Store){}
+[Continue through the cave](Divided Cave Path 1){}
+
+::Divided Cave Path 1
+The cave looks like it deepens but you can also see a light in the path that goes up with small feint sound of birds.
+It is probably a way out. But who knows what treasure i can find in this cave further down.
+The old man was stacked, so what is stopping me from finding equal or better loot further below.
+Looks like i have to choose...
+[Go further into the cave](The cave depths){}
+[Go up towards the presumed exit](The cave exit){}
+
+::The cave depths
+You look at a path that goes further into the cave. The only thing standing between you and massive riches is a flimsy bridge.
+The bridge looks like it could break at any moment, but those are the risks of fortune.
+[Continue Onward](The Great Fall){Small Damage Action}
+[Go back](Previous Passage){}
+
+::The cave exit
+You can see that the light gets brighter. This is for sure the way out.
+While expecting the path you hear a small growl.
+It looks like something is waiting up ahead.
+You are for sure that this might be the only way out you see for a while.
+Should you take the risk?
+[Continue out](The Exit Troll){}
+[Go back](Previous Passage){}
+
+::The Great Fall
+While traversing the flimsy bridge. You hear creaking as the bridge collapses and sends you down into the deep.
+You hit the ground hard. Knocking the breath out of you.
+You gather yourself as you study the surroundings. It is dark so you light a torch.
+Your surroundings are not a pleasant sight. The room has no walls or anything for that matter. Just darkness.
+It looks never ending.
+Before you can start to figure your way out you hear slithering and growling.
+Eyes start to appear in the dark mist.
+More and more eyes appears in the dark.
+You clench your sword as you realise you are in the heart of the mountain. The denn of all monsters.
+[Fight for your life](The monster den survival){}
+[Give up](You died){Death}
+
+::The Exit Troll(creature)
+As you approach the exit you are greeted by a troll that is covering the exit.
+The troll was of grotesque proportions and large in size. It lounges at you as you enter your combat stance.
+[Attack]{damageRoll}
+[Try to run out the cave]{}
+
+
+
